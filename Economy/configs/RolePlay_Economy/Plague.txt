@@ -1,20 +1,20 @@
-"Plague"
-{
-	
-	"PLAGUE_COOLDOWN"			"600"
-
-	"INFECT_CHANCE_LVL_#0"				"15"
-	"INFECT_CHANCE_LVL_#1"				"20"
-	"INFECT_CHANCE_LVL_#2"				"26"
-	"INFECT_CHANCE_LVL_#3"				"32"
-	"INFECT_CHANCE_LVL_#4"				"40"
-	"INFECT_CHANCE_LVL_#5"				"50"
-	
-	"JOB_NAME_LVL_#0"				"Infector"
-	"JOB_NAME_LVL_#1"				"SARS"
-	"JOB_NAME_LVL_#2"				"COVID-2050"
-	"JOB_NAME_LVL_#3"				"HIV"
-	"JOB_NAME_LVL_#4"				"Plague"
-	"JOB_NAME_LVL_#5"				"Cartel"
-	
-}
+"Plague"
+{
+	
+	"PLAGUE_COOLDOWN"			"600"
+
+	"INFECT_CHANCE_LVL_#0"				"15"
+	"INFECT_CHANCE_LVL_#1"				"20"
+	"INFECT_CHANCE_LVL_#2"				"26"
+	"INFECT_CHANCE_LVL_#3"				"32"
+	"INFECT_CHANCE_LVL_#4"				"40"
+	"INFECT_CHANCE_LVL_#5"				"50"
+	
+	"JOB_NAME_LVL_#0"				"Infector"
+	"JOB_NAME_LVL_#1"				"SARS"
+	"JOB_NAME_LVL_#2"				"COVID-2050"
+	"JOB_NAME_LVL_#3"				"HIV"
+	"JOB_NAME_LVL_#4"				"Plague"
+	"JOB_NAME_LVL_#5"				"Cartel"
+	
+}

@@ -1,84 +1,81 @@
-"Thief"
-{
-	// Note: There are other keyvalues regarding the thief in the MarketShop and the WeaponsShop
-	
-	"MIN_LEVEL_STEAL_WEAPON"			"6"
-	
-	"STEAL_COOLDOWN"				"60.0"
-	"FAIL_STEAL_COOLDOWN"				"0.0"
-	"WEAPON_STEAL_COOLDOWN"				"120.0"
-	"FAIL_WEAPON_STEAL_COOLDOWN"			"2.0"
-	
-	"ITEMS_TO_STEAL_LVL_#0"				"2"
-	"ITEMS_TO_STEAL_LVL_#1"				"2"
-	"ITEMS_TO_STEAL_LVL_#2"				"4"
-	"ITEMS_TO_STEAL_LVL_#3"				"4"
-	"ITEMS_TO_STEAL_LVL_#4"				"6"
-	"ITEMS_TO_STEAL_LVL_#5"				"6"
-	"ITEMS_TO_STEAL_LVL_#6"				"6"
-	"ITEMS_TO_STEAL_LVL_#7"				"6"
-	"ITEMS_TO_STEAL_LVL_#8"				"6"
-	"ITEMS_TO_STEAL_LVL_#9"				"6"
-	"ITEMS_TO_STEAL_LVL_#10"			"6"
-	
-	
-	"STEAL_CHANCE_LVL_#0"				"20"
-	"STEAL_CHANCE_LVL_#1"				"25"
-	"STEAL_CHANCE_LVL_#2"				"30"
-	"STEAL_CHANCE_LVL_#3"				"35"
-	"STEAL_CHANCE_LVL_#4"				"40"
-	"STEAL_CHANCE_LVL_#5"				"45"
-	"STEAL_CHANCE_LVL_#6"				"50"
-	"STEAL_CHANCE_LVL_#7"				"55"
-	"STEAL_CHANCE_LVL_#8"				"60"
-	"STEAL_CHANCE_LVL_#9"				"70"
-	"STEAL_CHANCE_LVL_#10"				"80"
-	
-	
-	"WEAPON_STEAL_CHANCE_LVL_#0"				"0"
-	"WEAPON_STEAL_CHANCE_LVL_#1"				"0"
-	"WEAPON_STEAL_CHANCE_LVL_#2"				"0"
-	"WEAPON_STEAL_CHANCE_LVL_#3"				"0"
-	"WEAPON_STEAL_CHANCE_LVL_#4"				"0"
-	"WEAPON_STEAL_CHANCE_LVL_#5"				"0"
-	"WEAPON_STEAL_CHANCE_LVL_#6"				"25"
-	"WEAPON_STEAL_CHANCE_LVL_#7"				"30"
-	"WEAPON_STEAL_CHANCE_LVL_#8"				"30"
-	"WEAPON_STEAL_CHANCE_LVL_#9"				"35"
-	"WEAPON_STEAL_CHANCE_LVL_#10"				"40"
-	
-	
-	// No weapons to steal means the chance the player won't be notified you tried to search for a weapon that doesn't exist.
-	// If you get unlucky, the player will be able to kill you basically.
-	
-	"NO_WEAPONS_TO_STEAL_CHANCE_LVL_#0"				"0"
-	"NO_WEAPONS_TO_STEAL_CHANCE_LVL_#1"				"10"
-	"NO_WEAPONS_TO_STEAL_CHANCE_LVL_#2"				"20"
-	"NO_WEAPONS_TO_STEAL_CHANCE_LVL_#3"				"30"
-	"NO_WEAPONS_TO_STEAL_CHANCE_LVL_#4"				"40"
-	"NO_WEAPONS_TO_STEAL_CHANCE_LVL_#5"				"50"
-	"NO_WEAPONS_TO_STEAL_CHANCE_LVL_#6"				"60"
-	"NO_WEAPONS_TO_STEAL_CHANCE_LVL_#7"				"70"
-	"NO_WEAPONS_TO_STEAL_CHANCE_LVL_#8"				"80"
-	"NO_WEAPONS_TO_STEAL_CHANCE_LVL_#9"				"90"
-	"NO_WEAPONS_TO_STEAL_CHANCE_LVL_#10"				"100"
-	
-	
-	"JOB_NAME_LVL_#0"				"Pick Pocket"
-	"JOB_NAME_LVL_#1"				"Thief"
-	"JOB_NAME_LVL_#2"				"Robber"
-	"JOB_NAME_LVL_#3"				"Bandit"
-	"JOB_NAME_LVL_#4"				"Sneak Thief"
-	"JOB_NAME_LVL_#5"				"Swindler"
-	"JOB_NAME_LVL_#6"				"Pick Pocket"
-	"JOB_NAME_LVL_#7"				"Thief"
-	"JOB_NAME_LVL_#8"				"Robber"
-	"JOB_NAME_LVL_#9"				"Bandit"
-	"JOB_NAME_LVL_#10"				"Sneak Thief"
-	
-	// List of item names that cannot be stolen. Cocaine is hardcoded in Drug Dealer's Eco as well.
-	"NO_STEAL_ITEMS_#0"				"AWP"
-	"NO_STEAL_ITEMS_#1"				"COCS"
-
-
-}
+"Thief"
+{
+	// Note: There are other keyvalues regarding the thief in the MarketShop and the WeaponsShop
+	
+	"MIN_LEVEL_STEAL_WEAPON"			"6"
+	
+	"STEAL_COOLDOWN"				"60.0"
+	"FAIL_STEAL_COOLDOWN"				"0.0"
+	"WEAPON_STEAL_COOLDOWN"				"120.0"
+	"FAIL_WEAPON_STEAL_COOLDOWN"			"2.0"
+	
+	"ITEMS_TO_STEAL_LVL_#0"				"2"
+	"ITEMS_TO_STEAL_LVL_#1"				"2"
+	"ITEMS_TO_STEAL_LVL_#2"				"4"
+	"ITEMS_TO_STEAL_LVL_#3"				"4"
+	"ITEMS_TO_STEAL_LVL_#4"				"6"
+	"ITEMS_TO_STEAL_LVL_#5"				"6"
+	"ITEMS_TO_STEAL_LVL_#6"				"6"
+	"ITEMS_TO_STEAL_LVL_#7"				"6"
+	"ITEMS_TO_STEAL_LVL_#8"				"6"
+	"ITEMS_TO_STEAL_LVL_#9"				"6"
+	"ITEMS_TO_STEAL_LVL_#10"			"6"
+	
+	
+	"STEAL_CHANCE_LVL_#0"				"20"
+	"STEAL_CHANCE_LVL_#1"				"25"
+	"STEAL_CHANCE_LVL_#2"				"30"
+	"STEAL_CHANCE_LVL_#3"				"35"
+	"STEAL_CHANCE_LVL_#4"				"40"
+	"STEAL_CHANCE_LVL_#5"				"45"
+	"STEAL_CHANCE_LVL_#6"				"50"
+	"STEAL_CHANCE_LVL_#7"				"55"
+	"STEAL_CHANCE_LVL_#8"				"60"
+	"STEAL_CHANCE_LVL_#9"				"70"
+	"STEAL_CHANCE_LVL_#10"				"80"
+	
+	
+	"WEAPON_STEAL_CHANCE_LVL_#0"				"0"
+	"WEAPON_STEAL_CHANCE_LVL_#1"				"0"
+	"WEAPON_STEAL_CHANCE_LVL_#2"				"0"
+	"WEAPON_STEAL_CHANCE_LVL_#3"				"0"
+	"WEAPON_STEAL_CHANCE_LVL_#4"				"0"
+	"WEAPON_STEAL_CHANCE_LVL_#5"				"0"
+	"WEAPON_STEAL_CHANCE_LVL_#6"				"25"
+	"WEAPON_STEAL_CHANCE_LVL_#7"				"30"
+	"WEAPON_STEAL_CHANCE_LVL_#8"				"30"
+	"WEAPON_STEAL_CHANCE_LVL_#9"				"35"
+	"WEAPON_STEAL_CHANCE_LVL_#10"				"40"
+	
+	
+	// No weapons to steal means the chance the player won't be notified you tried to search for a weapon that doesn't exist.
+	// If you get unlucky, the player will be able to kill you basically.
+	
+	"NO_WEAPONS_TO_STEAL_CHANCE_LVL_#0"				"0"
+	"NO_WEAPONS_TO_STEAL_CHANCE_LVL_#1"				"10"
+	"NO_WEAPONS_TO_STEAL_CHANCE_LVL_#2"				"20"
+	"NO_WEAPONS_TO_STEAL_CHANCE_LVL_#3"				"30"
+	"NO_WEAPONS_TO_STEAL_CHANCE_LVL_#4"				"40"
+	"NO_WEAPONS_TO_STEAL_CHANCE_LVL_#5"				"50"
+	"NO_WEAPONS_TO_STEAL_CHANCE_LVL_#6"				"60"
+	"NO_WEAPONS_TO_STEAL_CHANCE_LVL_#7"				"70"
+	"NO_WEAPONS_TO_STEAL_CHANCE_LVL_#8"				"80"
+	"NO_WEAPONS_TO_STEAL_CHANCE_LVL_#9"				"90"
+	"NO_WEAPONS_TO_STEAL_CHANCE_LVL_#10"				"100"
+	
+	
+	"JOB_NAME_LVL_#0"				"Pick Pocket"
+	"JOB_NAME_LVL_#1"				"Thief"
+	"JOB_NAME_LVL_#2"				"Robber"
+	"JOB_NAME_LVL_#3"				"Bandit"
+	"JOB_NAME_LVL_#4"				"Sneak Thief"
+	"JOB_NAME_LVL_#5"				"Swindler"
+	"JOB_NAME_LVL_#6"				"Pick Pocket"
+	"JOB_NAME_LVL_#7"				"Thief"
+	"JOB_NAME_LVL_#8"				"Robber"
+	"JOB_NAME_LVL_#9"				"Bandit"
+	"JOB_NAME_LVL_#10"				"Sneak Thief"
+	
+
+
+}
