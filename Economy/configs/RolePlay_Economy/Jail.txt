@@ -12,11 +12,11 @@
     "JAIL_CELL_XYZ_#5"      "-687.597, -434.182, -152.968750"
     
     // Not always used, these are the cells for players who got normal jail for 10+ minutes.
-    "JAIL_CELL_VIP_XYZ_#0"     "1016.159, 5723.200, 2136.031250"
+    "JAIL_CELL_VIP_XYZ_#0"     "-705.794, -34.172, -152.968750"
     
     
     // Cells for admin jail, usually only one.
-    "JAIL_CELL_ADMIN_XYZ_#0"     "1016.159, 5723.200, 2136.031250"
+    "JAIL_CELL_ADMIN_XYZ_#0"     "-160.555, -413.008, -151.968750"
     
     
     
