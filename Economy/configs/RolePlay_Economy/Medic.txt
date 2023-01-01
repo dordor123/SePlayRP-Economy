@@ -1,33 +1,66 @@
 "Medic"
+
 {
-	"MEDIC_PRICE"					"200"
-	"MEDIC_PROFIT_PER_HP"				"10"
+
+	"MEDIC_PRICE"					"50"
+
+	"MEDIC_PROFIT_PER_HP"				"25"
+
 	
+
 	"HEALTHSHOT_PRICE"				"1000"
-	"HEALTHSHOT_PROFIT"				"500"
+
+	"HEALTHSHOT_PROFIT"				"800"
+
 	
+
 	"HEAL_AMOUNT_LVL_#0"				"35"
+
 	"HEAL_AMOUNT_LVL_#1"				"40"
+
 	"HEAL_AMOUNT_LVL_#2"				"45"
+
 	"HEAL_AMOUNT_LVL_#3"				"50"
+
 	"HEAL_AMOUNT_LVL_#4"				"55"
+
 	"HEAL_AMOUNT_LVL_#5"				"60"
+
 	"HEAL_AMOUNT_LVL_#6"				"75"
+
 	"HEAL_AMOUNT_LVL_#7"				"80"
+
 	"HEAL_AMOUNT_LVL_#8"				"90"
+
 	"HEAL_AMOUNT_LVL_#9"				"95"
+
 	"HEAL_AMOUNT_LVL_#10"				"100"
+
 	
+
 	
+
 	"JOB_NAME_LVL_#0"				"First Aid"
+
 	"JOB_NAME_LVL_#1"				"Intern"
+
 	"JOB_NAME_LVL_#2"				"Nurse"
+
 	"JOB_NAME_LVL_#3"				"Paramedic"
+
 	"JOB_NAME_LVL_#4"				"Doctor"
+
 	"JOB_NAME_LVL_#5"				"Surgeon"	
+
 	"JOB_NAME_LVL_#6"				"First Aid"
+
 	"JOB_NAME_LVL_#7"				"Intern"
+
 	"JOB_NAME_LVL_#8"				"Nurse"
+
 	"JOB_NAME_LVL_#9"				"Paramedic"
+
 	"JOB_NAME_LVL_#10"				"Doctor"
+
 }	
+

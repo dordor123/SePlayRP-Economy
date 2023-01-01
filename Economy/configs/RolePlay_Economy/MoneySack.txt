@@ -1,8 +1,16 @@
 "Money Sack"
+
 {
-	"MIN_SACK_AMOUNT"		"10"
-	"MAX_SACK_AMOUNT"		"12"
+
+	"MIN_SACK_AMOUNT"		"8"
+
+	"MAX_SACK_AMOUNT"		"10"
+
 	"MIN_SACK_REWARD"		"600"
-	"MAX_SACK_REWARD"		"1500"
-	"SACK_DELAY"			"1800.0"
+
+	"MAX_SACK_REWARD"		"1121"
+
+	"SACK_DELAY"			"1500.0"
+
 }
+

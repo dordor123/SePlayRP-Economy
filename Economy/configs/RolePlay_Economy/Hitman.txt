@@ -1,54 +1,104 @@
 "Hitman"
+
 {
+
 	
+
 	"HITMAN_PRICE"					"1500"
+
 	
+
 	"HITMAN_TIME"					"60"
+
 	
+
 	"HITMAN_PROTECTION_TIME"			"120"
+
 	
+
 	//amount of cash the hitman gets for kill//
+
 	
-	"CASH_BONUS_LVL_#0"				"100"
-	"CASH_BONUS_LVL_#1"				"200"
-	"CASH_BONUS_LVL_#2"				"300"
-	"CASH_BONUS_LVL_#3"				"400"
-	"CASH_BONUS_LVL_#4"				"500"
-	"CASH_BONUS_LVL_#5"				"650"
-	"CASH_BONUS_LVL_#6"				"800"
-	"CASH_BONUS_LVL_#7"				"1000"
-	"CASH_BONUS_LVL_#8"				"1200"
-	"CASH_BONUS_LVL_#9"				"1300"
-	"CASH_BONUS_LVL_#10"				"1500"
+
+	"CASH_BONUS_LVL_#0"				"2000"
+
+	"CASH_BONUS_LVL_#1"				"2000"
+
+	"CASH_BONUS_LVL_#2"				"2000"
+
+	"CASH_BONUS_LVL_#3"				"2000"
+
+	"CASH_BONUS_LVL_#4"				"2000"
+
+	"CASH_BONUS_LVL_#5"				"2000"
+
+	"CASH_BONUS_LVL_#6"				"2000"
+
+	"CASH_BONUS_LVL_#7"				"2000"
+
+	"CASH_BONUS_LVL_#8"				"2000"
+
+	"CASH_BONUS_LVL_#9"				"2000"
+
+	"CASH_BONUS_LVL_#10"				"2000"
+
 	
+
 	
-	"KARMA_BONUS_BAD_COP_LVL_#0"				"1000"
-	"KARMA_BONUS_BAD_COP_LVL_#1"				"950"
-	"KARMA_BONUS_BAD_COP_LVL_#2"				"900"
-	"KARMA_BONUS_BAD_COP_LVL_#3"				"850"
-	"KARMA_BONUS_BAD_COP_LVL_#4"				"800"
-	"KARMA_BONUS_BAD_COP_LVL_#5"				"750"
-	"KARMA_BONUS_BAD_COP_LVL_#6"				"700"
-	"KARMA_BONUS_BAD_COP_LVL_#7"				"650"
-	"KARMA_BONUS_BAD_COP_LVL_#8"				"600"
-	"KARMA_BONUS_BAD_COP_LVL_#9"				"500"
-	"KARMA_BONUS_BAD_COP_LVL_#10"				"400"
+
+	"KARMA_BONUS_BAD_COP_LVL_#0"				"2000"
+
+	"KARMA_BONUS_BAD_COP_LVL_#1"				"2000"
+
+	"KARMA_BONUS_BAD_COP_LVL_#2"				"2000"
+
+	"KARMA_BONUS_BAD_COP_LVL_#3"				"2000"
+
+	"KARMA_BONUS_BAD_COP_LVL_#4"				"2000"
+
+	"KARMA_BONUS_BAD_COP_LVL_#5"				"2000"
+
+	"KARMA_BONUS_BAD_COP_LVL_#6"				"2000"
+
+	"KARMA_BONUS_BAD_COP_LVL_#7"				"2000"
+
+	"KARMA_BONUS_BAD_COP_LVL_#8"				"2000"
+
+	"KARMA_BONUS_BAD_COP_LVL_#9"				"2000"
+
+	"KARMA_BONUS_BAD_COP_LVL_#10"				"2000"
+
 	
+
 	
+
 	"JOB_NAME_LVL_#0"				"Hitman"
+
 	"JOB_NAME_LVL_#1"				"Gunman"
+
 	"JOB_NAME_LVL_#2"				"Sniper"
+
 	"JOB_NAME_LVL_#3"				"Killer"
+
 	"JOB_NAME_LVL_#4"				"Assassin"
+
 	"JOB_NAME_LVL_#5"				"Bounty"
+
 	"JOB_NAME_LVL_#6"				"Hitman"
+
 	"JOB_NAME_LVL_#7"				"Gunman"
+
 	"JOB_NAME_LVL_#8"				"Sniper"
+
 	"JOB_NAME_LVL_#9"				"Killer"
+
 	"JOB_NAME_LVL_#10"				"Assassin"
-	
+
+
 	// EXP and money multiplier when hitman gets a job from the server.
 	"HITMAN_SERVER_EXP_MULTIPLIER"			"0.1"
 	"HITMAN_SERVER_CASH_MULTIPLIER"			"0.1"
 	
+
 }
+

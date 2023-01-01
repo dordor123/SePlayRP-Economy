@@ -1,111 +1,222 @@
 "Market Shop"
+
 {
+
 	"MAX_FOOD"			"2500"
+
 	"FOOD_SELL_MULTIPLIER"		"0.6"
 
+
+
 	"FOOD_STORE_ROB_TIME"		"60"
+
 	"FOOD_STORE_ROB_KARMA"		"1290"
+
 	"FOOD_STORE_MAX_KARMA"		"1399"
 
+
+
 	// Amount of items robbed from the market shop.
+
 	"THIEF_ROB_ITEMS_LVL_#0"				"2"
+
 	"THIEF_ROB_ITEMS_LVL_#1"				"2"
+
 	"THIEF_ROB_ITEMS_LVL_#2"				"3"
+
 	"THIEF_ROB_ITEMS_LVL_#3"				"3"
+
 	"THIEF_ROB_ITEMS_LVL_#4"				"4"
+
 	"THIEF_ROB_ITEMS_LVL_#5"				"5"
+
 	"THIEF_ROB_ITEMS_LVL_#6"				"6"
+
 	"THIEF_ROB_ITEMS_LVL_#7"				"7"
+
 	"THIEF_ROB_ITEMS_LVL_#8"				"8"
+
 	"THIEF_ROB_ITEMS_LVL_#9"				"8"
+
 	"THIEF_ROB_ITEMS_LVL_#10"				"10"
+
 	
+
 	
+
 	// Minimum amount of cash each rob can give you.
+
 	"THIEF_MIN_ROB_REWARD_LVL_#0"				"100"
+
 	"THIEF_MIN_ROB_REWARD_LVL_#1"				"150"
+
 	"THIEF_MIN_ROB_REWARD_LVL_#2"				"200"
+
 	"THIEF_MIN_ROB_REWARD_LVL_#3"				"250"
+
 	"THIEF_MIN_ROB_REWARD_LVL_#4"				"300"
+
 	"THIEF_MIN_ROB_REWARD_LVL_#5"				"350"
+
 	"THIEF_MIN_ROB_REWARD_LVL_#6"				"400"
+
 	"THIEF_MIN_ROB_REWARD_LVL_#7"				"500"
+
 	"THIEF_MIN_ROB_REWARD_LVL_#8"				"600"
+
 	"THIEF_MIN_ROB_REWARD_LVL_#9"				"700"
+
 	"THIEF_MIN_ROB_REWARD_LVL_#10"				"800"
+
 	
+
 	
+
 	// Maximum amount of cash each rob can give you.
+
 	"THIEF_MAX_ROB_REWARD_LVL_#0"				"200"
+
 	"THIEF_MAX_ROB_REWARD_LVL_#1"				"300"
+
 	"THIEF_MAX_ROB_REWARD_LVL_#2"				"400"
+
 	"THIEF_MAX_ROB_REWARD_LVL_#3"				"500"
+
 	"THIEF_MAX_ROB_REWARD_LVL_#4"				"600"
+
 	"THIEF_MAX_ROB_REWARD_LVL_#5"				"800"
+
 	"THIEF_MAX_ROB_REWARD_LVL_#6"				"1000"
+
 	"THIEF_MAX_ROB_REWARD_LVL_#7"				"1250"
+
 	"THIEF_MAX_ROB_REWARD_LVL_#8"				"1500"
+
 	"THIEF_MAX_ROB_REWARD_LVL_#9"				"1750"
+
 	"THIEF_MAX_ROB_REWARD_LVL_#10"				"2000"
+
 	
+
 	
+
 	"ITEM_NAME_#0"					"Jahnun"
+
 	"ITEM_SHORTNAME_#0"				"JAHNUN"
-	"ITEM_PRICE_#0"					"50"
-	"ITEM_HP_#0"					"1"
+
+	"ITEM_PRICE_#0"					"20"
+
+	"ITEM_HP_#0"					"9"
+
 	
+
 	"ITEM_NAME_#1"					"Falafel"
+
 	"ITEM_SHORTNAME_#1"				"FALAFEL"
-	"ITEM_PRICE_#1"					"250"
-	"ITEM_HP_#1"					"3"
+
+	"ITEM_PRICE_#1"					"35"
+
+	"ITEM_HP_#1"					"14"
+
 	
+
 	"ITEM_NAME_#2"					"Hotdog"
+
 	"ITEM_SHORTNAME_#2"				"HOTDOG"
-	"ITEM_PRICE_#2"					"450"
-	"ITEM_HP_#2"					"5"
+
+	"ITEM_PRICE_#2"					"50"
+
+	"ITEM_HP_#2"					"14"
+
+
 
 	"ITEM_NAME_#3"					"Schnitzel"
+
 	"ITEM_SHORTNAME_#3"				"SCHNITZEL"
-	"ITEM_PRICE_#3"					"650"
-	"ITEM_HP_#3"					"7"
+
+	"ITEM_PRICE_#3"					"80"
+
+	"ITEM_HP_#3"					"19"
+
 	
+
 	"ITEM_NAME_#4"					"Shawarma"
+
 	"ITEM_SHORTNAME_#4"				"SHAWARMA"
-	"ITEM_PRICE_#4"					"1000"
-	"ITEM_HP_#4"					"10"
+
+	"ITEM_PRICE_#4"					"120"
+
+	"ITEM_HP_#4"					"24"
+
 	
+
 	"ITEM_NAME_#5"					"Pizza"
+
 	"ITEM_SHORTNAME_#5"				"PIZZA"
-	"ITEM_PRICE_#5"					"1500"
-	"ITEM_HP_#5"					"15"
+
+	"ITEM_PRICE_#5"					"150"
+
+	"ITEM_HP_#5"					"29"
+
     
+
 	"ITEM_NAME_#6"					"Hamburger"
+
 	"ITEM_SHORTNAME_#6"				"HAMBURGER"
-	"ITEM_PRICE_#6"					"1800"
-	"ITEM_HP_#6"					"18"
+
+	"ITEM_PRICE_#6"					"200"
+
+	"ITEM_HP_#6"					"34"
+
 	
+
 	"ITEM_NAME_#7"					"Sushi"
+
 	"ITEM_SHORTNAME_#7"				"SUSHI"
-	"ITEM_PRICE_#7"					"2000"
-	"ITEM_HP_#7"					"20"
+
+	"ITEM_PRICE_#7"					"250"
+
+	"ITEM_HP_#7"					"39"
+
+
 
 	"ITEM_NAME_#8"					"Arak"
+
 	"ITEM_SHORTNAME_#8"				"ARAK"
-	"ITEM_PRICE_#8"					"2200"
-	"ITEM_HP_#8"					"22"
+
+	"ITEM_PRICE_#8"					"300"
+
+	"ITEM_HP_#8"					"39"
+
 	
+
 	"ITEM_NAME_#9"					"Pargit"
+
 	"ITEM_SHORTNAME_#9"				"PARGIT"
-	"ITEM_PRICE_#9"					"2400"
-	"ITEM_HP_#9"					"24"
+
+	"ITEM_PRICE_#9"					"350"
+
+	"ITEM_HP_#9"					"44"
+
     
+
 	"ITEM_NAME_#10"					"Kebab"
+
 	"ITEM_SHORTNAME_#10"				"KEBAB"
-	"ITEM_PRICE_#10"					"2600"
-	"ITEM_HP_#10"					"26"
+
+	"ITEM_PRICE_#10"					"380"
+
+	"ITEM_HP_#10"					"44"
+
 	
+
 	"ITEM_NAME_#11"					"Blue Label"
+
 	"ITEM_SHORTNAME_#11"				"BLUELABEL"
-	"ITEM_PRICE_#11"					"3000"
-	"ITEM_HP_#11"					"30"
+
+	"ITEM_PRICE_#11"					"420"
+
+	"ITEM_HP_#11"					"49"
+
 }
+

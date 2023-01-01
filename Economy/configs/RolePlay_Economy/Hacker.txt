@@ -1,19 +1,19 @@
-"Hacker"
-{
-	"JOB_NAME_LVL_#0"				"Disruptor"
-	"JOB_NAME_LVL_#1"				"Key Logger"
-	"JOB_NAME_LVL_#2"				"Trojan"
-	"JOB_NAME_LVL_#3"				"Invisible"
-	"JOB_NAME_LVL_#4"				"Hacker"
-	"JOB_NAME_LVL_#5"				"Matrix"
-	
-	"CASH_BONUS_LVL_#0"		"10"
-	"CASH_BONUS_LVL_#1"		"12"
-	"CASH_BONUS_LVL_#2"		"14"
-	"CASH_BONUS_LVL_#3"		"16"
-	"CASH_BONUS_LVL_#4"		"18"
-	"CASH_BONUS_LVL_#5"		"20"
-
-	"HACKER_PROTECTION_TIME"	 "180"
-	"HACKER_COOLDOWN_TIME"		"30"
-}
+"Hacker"
+{
+	"JOB_NAME_LVL_#0"				"Disruptor"
+	"JOB_NAME_LVL_#1"				"Key Logger"
+	"JOB_NAME_LVL_#2"				"Trojan"
+	"JOB_NAME_LVL_#3"				"Invisible"
+	"JOB_NAME_LVL_#4"				"Hacker"
+	"JOB_NAME_LVL_#5"				"Matrix"
+	
+	"CASH_BONUS_LVL_#0"		"10"
+	"CASH_BONUS_LVL_#1"		"12"
+	"CASH_BONUS_LVL_#2"		"14"
+	"CASH_BONUS_LVL_#3"		"16"
+	"CASH_BONUS_LVL_#4"		"18"
+	"CASH_BONUS_LVL_#5"		"20"
+
+	"HACKER_PROTECTION_TIME"	 "180"
+	"HACKER_COOLDOWN_TIME"		"30"
+}
