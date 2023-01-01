@@ -1,49 +1,98 @@
 "Arena"
+
 {
+
     // Delay in seconds between each arena in weekday ( Sunday to Thursday )
+
     "ARENA_DELAY_WEEKDAY"         "1200"
+
     
+
     // Delay in seconds between each arena in weekends ( Friday, Saturday )
-    "ARENA_DELAY_WEEKEND"        "900"
+
+    "ARENA_DELAY_WEEKEND"        "1200"
+
     
-    "MIN_ARENA_REWARD"        "5000"
-    "MAX_ARENA_REWARD"        "12500"
+
+    "MIN_ARENA_REWARD"        "2431"
+
+    "MAX_ARENA_REWARD"        "9721"
+
+
 
     "MIN_JOTD_EXP"            "10"
-    "MAX_JOTD_EXP"            "30"
+
+    "MAX_JOTD_EXP"            "25"
+
+
+
 
 
     // ARENA_SPAWN_GLOW_#x is the RGB color code, you can google color names to find colors and their RGB codes.
-    "ARENA_SPAWN_XYZ_#0"        "-9789.114, 12688.396, 12779.732421"
+
+    "ARENA_SPAWN_XYZ_#0"        "-2143.603, -3935.790, -12899.268554"
+
     "ARENA_SPAWN_GLOW_#0"        "255, 0, 0"
+
     "ARENA_SPAWN_GLOW_NAME_#0"    "Red"
+
     
-    "ARENA_SPAWN_XYZ_#1"        "-9859.264, 10446.318, 12779.732421"
+
+    "ARENA_SPAWN_XYZ_#1"        "165.437, -3828.208, -12899.268554"
+
     "ARENA_SPAWN_GLOW_#1"        "255, 128, 0"
+
     "ARENA_SPAWN_GLOW_NAME_#1"    "Orange"
+
     
-    "ARENA_SPAWN_XYZ_#2"        "-12104.858, 10439.050, 12779.732421"
+
+    "ARENA_SPAWN_XYZ_#2"        "2390.856, -3895.558, -12899.268554"
+
     "ARENA_SPAWN_GLOW_#2"        "255, 255, 0"
+
     "ARENA_SPAWN_GLOW_NAME_#2"    "Yellow"
+
     
-    "ARENA_SPAWN_XYZ_#3"        "-14400.546, 10471.706, 12779.732421"
+
+    "ARENA_SPAWN_XYZ_#3"        "2472.881, -6238.446, -12899.268554"
+
     "ARENA_SPAWN_GLOW_#3"        "0, 255, 0"
+
     "ARENA_SPAWN_GLOW_NAME_#3"    "Green"
+
     
-    "ARENA_SPAWN_XYZ_#4"        "-14500.243, 12767.191, 12779.732421"
+
+    "ARENA_SPAWN_XYZ_#4"        "2383.139, -8463.895, -12899.268554"
+
     "ARENA_SPAWN_GLOW_#4"        "0, 255, 255"
+
     "ARENA_SPAWN_GLOW_NAME_#4"    "Light Blue"
+
     
-    "ARENA_SPAWN_XYZ_#5"        "-14417.452, 15038.791, 12779.732421"
+
+    "ARENA_SPAWN_XYZ_#5"        "2383.139, -8463.895, -12899.268554"
+
     "ARENA_SPAWN_GLOW_#5"        "153, 0, 255"
+
     "ARENA_SPAWN_GLOW_NAME_#5"    "Purple"
+
     
-    "ARENA_SPAWN_XYZ_#6"        "-12080.729, 15132.779, 12779.732421"
+
+    "ARENA_SPAWN_XYZ_#6"        "-2123.697, -8472.140, -12899.268554"
+
     "ARENA_SPAWN_GLOW_#6"        "255, 0, 255"
+
     "ARENA_SPAWN_GLOW_NAME_#6"    "Pink"
+
     
-    "ARENA_SPAWN_XYZ_#7"        "-9864.593, 15018.916, 12779.732421"
+
+    "ARENA_SPAWN_XYZ_#7"        "-2210.395, -6171.853, -12899.268554"
+
     "ARENA_SPAWN_GLOW_#7"        "128, 128, 128"
+
     "ARENA_SPAWN_GLOW_NAME_#7"    "Grey"
+
 }
+
+
 
