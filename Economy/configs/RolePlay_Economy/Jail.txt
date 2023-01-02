@@ -1,7 +1,6 @@
 "Jail"
 {
     // All XYZ are coordinates which can be found with "!xyz"
-    // Jail cells are found in csgo/addons/sourcemod/configs/jb_cells.ini
     "AFK_XYZ"        "-1330.479, -778.495, -696.968750"
     
     "JAIL_CELL_XYZ_#0"      "-715.538, -12.853, -152.968750"
